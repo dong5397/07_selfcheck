@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    
+    flex-wrap: wrap;
+   width: 500px;
+    
+}
+figure{
+    width: calc(33%);
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 0;
+    gap: 10px;
+}
+
